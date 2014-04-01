@@ -22,6 +22,12 @@ layout: home
         </ul>
     </div>
     <div class="aside">
-        
+        <div class="aside_box">
+            <a href="#">
+                <img src="/images/Avatar.jpg">
+                <h2>王允兵</h2>
+            </a>
+
+        </div>
     </div>
 </div>
