@@ -75,7 +75,7 @@ pre ol{margin-left:25px;list-style-type:decimal;}
     position: fixed;
     top: 0;
     left: 0;
-    width: 30%;
+    width: 20%;
     height: 100%;
     max-width: 500px;
     background:#000;
@@ -183,4 +183,8 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
 }
 @media (max-width: 1300px){
     .home-menu { position:absolute; }
+}
+/*wang*/
+.aside_box{
+    padding: 2em 3em;
 }
