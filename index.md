@@ -23,11 +23,10 @@ layout: home
     </div>
     <div class="aside">
         <div class="aside_box">
-            <a href="#">
-                <img src="/images/Avatar.jpg" width="230">
-                <h2>王允兵</h2>
+            <a href="http://steamedbread.github.io/">
+                <img src="/images/Avatar.jpg" width="230">                
             </a>
-
+            <h2>王允兵<a href="http://weibo.com/yunbing" target="_blank" style="margin:3px 0 0 5px;"><img src="http://www.weibo.com/favicon.ico" alt="" width="25"></a></h2>
         </div>
     </div>
 </div>
